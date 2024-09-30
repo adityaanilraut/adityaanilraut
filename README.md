@@ -1,6 +1,5 @@
 # Hi, I'm Aditya Raut! 👋
-[![HitCount](https://hits.dwyl.com/adityaanilraut/{project}.svg?style=flat-square)](http://hits.dwyl.com/adityaanilraut/{project})
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fadityaanilraut%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 Welcome to my GitHub profile! 💫
 
 ## GitHub Stats
