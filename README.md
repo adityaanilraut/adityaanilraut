@@ -1,4 +1,5 @@
 # Hi, I'm Aditya Raut! 👋
+[![HitCount](https://hits.dwyl.com/adityaanilraut/{project}.svg?style=flat-square)](http://hits.dwyl.com/adityaanilraut/{project})
 
 Welcome to my GitHub profile! 💫
 
