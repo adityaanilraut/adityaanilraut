@@ -4,6 +4,8 @@ Welcome to my GitHub profile! 💫
 
 ## GitHub Stats
 ![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityaanilraut&show_icons=true&theme=cobalt)
+## LeetCode Stats
+![LeetCode Stats](https://leetcode.card.workers.dev/rautaditya?theme=auto&font=source_code_pro&extension=null)
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/adityaraut1)
