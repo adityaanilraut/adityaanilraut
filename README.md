@@ -18,6 +18,8 @@ Welcome to my GitHub profile! 💫
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/adityaraut1)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityaanilraut)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/_adityaraut_)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_rautaditya_)
 - [X](https://x.com/_adityaraut_)
 ##- [Personal Website](https://www.aditya-raut.com)
 
