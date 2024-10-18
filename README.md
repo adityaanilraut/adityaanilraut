@@ -16,11 +16,10 @@ Welcome to my GitHub profile! 💫
 </table>
 
 ## Connect with me
-- [LinkedIn](https://www.linkedin.com/in/adityaraut1)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityaanilraut)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/_adityaraut_)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_rautaditya_)
-- [X](https://x.com/_adityaraut_)
+[![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://aditya-raut.com/)
 ##- [Personal Website](https://www.aditya-raut.com)
 
 ## Skills
