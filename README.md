@@ -10,7 +10,7 @@ Welcome to my GitHub profile! 💫
       <img src="https://github-readme-stats.vercel.app/api?username=adityaanilraut&show_icons=true&theme=cobalt" alt="Aditya's GitHub stats" />
     </td>
     <td>
-      <img src="https://leetcode.card.workers.dev/rautaditya?theme=auto&font=source_code_pro&extension=null" alt="LeetCode Stats" />
+      ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityaanilraut&show_icons=true&theme=radical)
     </td>
   </tr>
 </table>
