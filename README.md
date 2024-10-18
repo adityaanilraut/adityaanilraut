@@ -17,6 +17,7 @@ Welcome to my GitHub profile! 💫
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/adityaraut1)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityaanilraut)
 - [X](https://x.com/_adityaraut_)
 ##- [Personal Website](https://www.aditya-raut.com)
 
