@@ -14,13 +14,14 @@ Welcome to my GitHub profile! 💫
     </td>
   </tr>
 </table>
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityaanilraut&show_icons=true&theme=radical)
+
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityaanilraut)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/_adityaraut_)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_rautaditya_)
 [![My Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://aditya-raut.com/)
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityaanilraut&show_icons=true&theme=radical)
 
 ## Skills
 
