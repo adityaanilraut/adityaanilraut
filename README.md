@@ -7,7 +7,7 @@ Welcome to my GitHub profile! 💫
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=adityaanilraut&show_icons=true&theme=cobalt" alt="Aditya's GitHub stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=adityaanilraut&show_icons=true&theme=radical" alt="Aditya's GitHub stats" />
     </td>
     <td>
       <img src="https://leetcode.card.workers.dev/rautaditya?theme=auto&font=source_code_pro&extension=null" alt="LeetCode Stats" />
@@ -22,7 +22,6 @@ Welcome to my GitHub profile! 💫
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/_adityaraut_)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_rautaditya_)
 [![My Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://aditya-raut.com/)
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityaanilraut&show_icons=true&theme=radical)
 
 ## Skills
 
