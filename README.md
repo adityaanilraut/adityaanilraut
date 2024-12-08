@@ -22,20 +22,3 @@ Welcome to my GitHub profile! 💫
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/_adityaraut_)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_rautaditya_)
 [![My Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://aditya-raut.com/)
-
-## Skills
-
-#### Programming Languages
-![Languages](https://skillicons.dev/icons?i=c,cpp,js,python,java,kotlin)
-
-#### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=react,next,html,css,tailwind)
-
-#### Backend Technologies
-[![Backend Technologies](https://skillicons.dev/icons?i=aws,azure,django,flask,docker,fastapi&perline=3)](https://skillicons.dev)
-
-#### Database & Tools
-![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb)
-
-#### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=git,github,markdown,netlify,vercel,vscode,figma,githubactions,gitlab)
