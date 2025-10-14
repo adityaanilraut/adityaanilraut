@@ -13,38 +13,6 @@ I’m passionate about building intelligent systems that merge data, automation,
 - 🚀 I’m currently exploring **RAG systems**, **agentic workflows**, and **LLM fine-tuning**.  
 - 🏆 Winner of **Wefunder AI Hackathon 2024** for building *Context Router* — an intelligent LLM orchestration framework.  
 
----
-
-## 🧩 Projects
-
-### 🔹 [CoderAI](https://github.com/adityaanilraut/homebrew-coderai)
-**An agentic Coding CLI** powered by multi-LLM backends (OpenAI GPT-5, LM Studio, etc.)  
-- 🚀 Dynamic model switching for latency/cost benchmarking  
-- 🧠 Tool-use via **Model Context Protocol (MCP)** for file I/O, Git ops, web-docs, and terminal exec  
-- ⚡ Pre/post execution hooks, slash commands, and interactive sessions  
-
----
-
-### 🔹 [Fine-Tuning Google Gemma2](https://github.com/adityaanilraut/Finetuning-Google-Gemma2)
-- 🎯 Fine-tuned **Gemma-2B** using LoRA for efficient specialization  
-- 💾 Reduced storage by 30% via quantization (16-bit → 4-bit)  
-- 🧩 Focused on task personalization and performance optimization  
-
----
-
-### 🔹 [AI-Powered Search Engine (RAG)]()
-- 🔍 Built a **Retrieval-Augmented Generation (RAG)** system  
-- 🧮 Used cosine similarity for semantic ranking and context retrieval  
-- 🧠 Generates concise, context-aware summaries from real-world documents  
-
----
-
-### 🔹 [Chess Engine](https://github.com/adityaanilraut/Chess-engine)
-- ♟️ Built with **Minimax + Alpha-Beta Pruning**  
-- 🧩 Flask backend + JavaScript frontend for an interactive UI  
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages:** C++, Python, Java, JavaScript, Swift, PL/SQL  
@@ -69,7 +37,3 @@ I’m passionate about building intelligent systems that merge data, automation,
 [![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityaanilraut)  
 📧 **Email:** araut1@csuchico.edu  
 
-
----
-
-⭐ *“Code, Create, and Keep Learning — every project is a step toward intelligence.”*
