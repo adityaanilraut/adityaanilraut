@@ -68,7 +68,7 @@ I’m passionate about building intelligent systems that merge data, automation,
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityaanilraut)  
 [![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityaanilraut)  
 📧 **Email:** araut1@csuchico.edu  
-🌐 **Portfolio:** [aditya-raut.com](https://aditya-raut.com)
+
 
 ---
 
