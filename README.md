@@ -13,7 +13,7 @@ I build intelligent, production-ready systems at the intersection of **AI, distr
 * 🧩 Strong in **end-to-end system design** — from backend APIs to polished frontends
 * ⚙️ Former **System Engineer @ Tata Consultancy Services (TCS)**
 
-  * Built scalable data pipelines and KPI systems using **Python, AWS, and Docker**
+* Built scalable data pipelines and KPI systems using **Python, AWS, and Docker**
 * 🏆 **Wefunder AI Hackathon Winner (2024)** — built *Context Router*, a cost-aware multi-LLM routing system
 * 🔬 Currently exploring **agentic workflows, model optimization (LoRA/quantization), and real-time AI systems**
 
@@ -38,9 +38,9 @@ I build intelligent, production-ready systems at the intersection of **AI, distr
 
 ---
 
-## 🏅 Selected Achievements
+## 🏅 Achievements
 
-* 🥇 **Wefunder AI Hackathon Winner (2024)**
+* 🥇 **Wefunder AI Hackathon Winner** 
   → Built *Context Router*, reducing LLM inference cost by **~20%** through intelligent routing
 * 📈 Improved business efficiency by **8–12%** at TCS through data-driven dashboards
 * ⚡ Designed and deployed **scalable, containerized systems** on AWS & Kubernetes
@@ -58,22 +58,4 @@ I build intelligent, production-ready systems at the intersection of **AI, distr
 * [araut1@csuchico.edu](mailto:araut1@csuchico.edu)
 * [adityaanilraut@gmail.com](mailto:adityaanilraut@gmail.com)
 
----
 
-### What changed (and why it’s better)
-
-* Stronger headline → positions you as **engineer + builder**, not just student
-* Reduced fluff → more **signal, less repetition**
-* Added **technical depth keywords** (LLM systems, RAG, orchestration)
-* Improved formatting → easier to scan in <10 seconds (important for recruiters)
-* Made achievements **results-driven and specific**
-
----
-
-If you want, I can tailor this for:
-
-* 🔥 **FAANG / Big Tech roles**
-* 🤖 **ML Engineer roles**
-* 🚀 **Startup / founding engineer vibe**
-
-Each version would emphasize slightly different strengths.
