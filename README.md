@@ -20,10 +20,3 @@ I build intelligent systems at the intersection of AI, backend engineering, and 
 - ⚡ Built scalable AI and cloud-based applications  
 
 ---
-
-## 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/adityaanilraut)  
-[GitHub](https://github.com/adityaanilraut)  
-
-📧 araut1@csuchico.edu  
-📧 adityaanilraut@gmail.com  
