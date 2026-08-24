@@ -2,26 +2,26 @@
 
 **Software Engineer | AI Systems | Backend & Infrastructure**
 
-I build AI-powered developer tools and backend systems, with a focus on **LLM agents, inference efficiency, and scalable infrastructure**.
+I build AI-powered developer tools and backend systems focused on **LLM agents, inference efficiency, and scalable infrastructure**.
 
 ## Featured Project
 
 ### CoderAI
 
-An AI coding agent built to optimize **speed, token usage, tool execution, and cost**.
+An AI coding agent optimized for **speed, token efficiency, tool execution, and cost**.
 
-**SWT-Bench verified benchmark:**
+### SWT-Bench Verified
 
-| Metric | CoderAI | Claude Code | OpenCode |
-|---|---:|---:|---:|
-| Success Rate | **100%** | 80% | 80% |
-| Avg Execution Time | **73.8s** | 115.3s | 86.9s |
-| Avg Total Tokens | **467K** | 612K | 730K |
-| Cache Hit Rate | **95.9%** | 94.0% | 94.5% |
-| Total API Cost | **$0.1069** | $0.1602 | $0.1611 |
-| Time to 1st Token | **3.4s** | 12.8s | 58.3s |
+Benchmarked against **Claude Code** and **OpenCode** using DeepSeek V4 Flash.
 
-**Overall:** CoderAI won on **accuracy, speed, token efficiency, and cost efficiency**.
+- **100% success rate**: 10/10 tasks resolved
+- **73.8s average execution time**
+- **467K average tokens**
+- **95.9% cache hit rate**
+- **$0.1069 total API cost**
+- **3.4s average time to first token**
+
+CoderAI achieved the best overall results in **accuracy, speed, token efficiency, and cost efficiency**.
 
 ## Focus
 
