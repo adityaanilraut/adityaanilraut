@@ -1,39 +1,27 @@
-# Hi, I'm Aditya Raut
+# Aditya Raut
+**AI Systems Engineer | Agentic Workflows & Infrastructure**
 
-**Software Engineer | AI Systems | Backend & Infrastructure**
+I architect autonomous agentic systems, multi-agent orchestrations, and high-throughput backend infrastructure optimized for **reasoning latency, token economy, and production reliability**.
 
-I build AI-powered developer tools and backend systems focused on **LLM agents, inference efficiency, and scalable infrastructure**.
+---
 
-## Featured Project
+### Featured Project: CoderAI
+Autonomous software engineering agent benchmarked on **SWT-Bench Verified** against **Claude** **Code** and OpenCode *(DeepSeek V4 Flash)*:
 
-### CoderAI
+| Benchmark Metric | CoderAI (Winner) | Claude Code | OpenCode |
+| :--- | :--- | :--- | :--- |
+| **Task Resolve Rate** | **100.0%** (10/10) | 80.0% (8/10) | 80.0% (8/10) |
+| **End-to-End Latency (Avg)** | **73.8s** (P90: 130.2s) | 115.3s (P90: 240.3s) | 86.9s (P90: 130.6s) |
+| **Time to First Token (TTFT)** | **3.4s** | 12.8s | 58.3s |
+| **Prompt Cache Hit Rate** | **95.9%** | 94.0% | 94.5% |
+| **Cost per Benchmark Run** | **$0.1069** | $0.1602 | $0.1611 |
 
-An AI coding agent optimized for **speed, token efficiency, tool execution, and cost**.
+> **Key Architectural Wins:** Optimized tool calling loop, KV-cache alignment, and structured reasoning traces resulted in **#1 overall performance across execution speed, token thrift, and cost efficiency**.
 
-### SWT-Bench Verified
+---
 
-Benchmarked against **Claude Code** and **OpenCode** using DeepSeek V4 Flash.
+**Core Expertise:** Autonomous Agents · Multi-Agent Orchestration · Context Engineering & RAG · Prompt Caching · Model Routing · Inference Latency Optimization · Distributed Systems
 
-- **100% success rate**: 10/10 tasks resolved
-- **73.8s average execution time**
-- **467K average tokens**
-- **95.9% cache hit rate**
-- **$0.1069 total API cost**
-- **3.4s average time to first token**
+**Tech Stack:** Python, Go, Java, TypeScript, PyTorch, Hugging Face, LangChain/LlamaIndex, FastAPI, Docker, Kubernetes, AWS, PostgreSQL, Redis, Kafka
 
-CoderAI achieved the best overall results in **accuracy, speed, token efficiency, and cost efficiency**.
-
-## Focus
-
-- LLM Agents & Coding Agents
-- RAG & Context Engineering
-- Model Routing & Prompt Caching
-- LLM Inference Optimization
-- Backend & Distributed Systems
-- AWS, Docker & Kubernetes
-
-## Tech
-
-**Python · Go · Java · TypeScript · PyTorch · Hugging Face · FastAPI · AWS · Docker · Kubernetes · PostgreSQL · Redis · Kafka**
-
-M.S. Computer Science, California State University, Chico
+*M.S. Computer Science — California State University, Chico*
