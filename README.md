@@ -1,27 +1,23 @@
-# Aditya Raut
-**AI Systems Engineer | Agentic Workflows & Infrastructure**
+# Hi, I’m Aditya Raut 👋
 
-I architect autonomous agentic systems, multi-agent orchestrations, and high-throughput backend infrastructure optimized for **reasoning latency, token economy, and production reliability**.
+I’m a software engineer in San Jose, California. I build backend services and AI tools, from systems that process live financial data to coding agents that can edit code and test their changes.
 
----
+[Portfolio](https://adityaanilraut.github.io/) · [Résumé](https://adityaanilraut.github.io/Aditya_Anil_Raut_resume.pdf) · [LinkedIn](https://www.linkedin.com/in/adityaanilraut)
 
-### Featured Project: CoderAI
-Autonomous software engineering agent benchmarked on **SWT-Bench Verified** against **Claude** **Code** and OpenCode *(DeepSeek V4 Flash)*:
+## What I’m building
 
-| Benchmark Metric | CoderAI (Winner) | Claude Code | OpenCode |
-| :--- | :--- | :--- | :--- |
-| **Task Resolve Rate** | **100.0%** (10/10) | 80.0% (8/10) | 80.0% (8/10) |
-| **End-to-End Latency (Avg)** | **73.8s** (P90: 130.2s) | 115.3s (P90: 240.3s) | 86.9s (P90: 130.6s) |
-| **Time to First Token (TTFT)** | **3.4s** | 12.8s | 58.3s |
-| **Prompt Cache Hit Rate** | **95.9%** | 94.0% | 94.5% |
-| **Cost per Benchmark Run** | **$0.1069** | $0.1602 | $0.1611 |
+**CoderAI** is an open-source coding agent that runs in your terminal. I built it to explore how an agent can understand an unfamiliar codebase, make targeted edits, and verify its work with tests. In a documented evaluation, it solved **10 of 10 tasks** across five SWE-bench Verified tasks and five local tasks. [Explore CoderAI](https://github.com/adityaanilraut/CoderAI) · [Read the evaluation](https://github.com/adityaanilraut/code-agent-bench)
 
-> **Key Architectural Wins:** Optimized tool calling loop, KV-cache alignment, and structured reasoning traces resulted in **#1 overall performance across execution speed, token thrift, and cost efficiency**.
+A few other projects I’ve shared here
 
----
+- **AI Context Router** picks a model based on what a request needs and switches providers if one fails. [View the code](https://github.com/adityaanilraut/AI-Model-Context-Routing)
+- **Embedding & Retrieval Pipeline** keeps a searchable document index up to date by reprocessing only what changed. [View the code](https://github.com/adityaanilraut/llm-embedding-pipeline)
+- **TurboQuant** explores how lower-precision model caches affect memory use, output quality, and speed. [View the benchmarks](https://github.com/adityaanilraut/TurboQuant-KV-Cache-Quantization)
 
-**Core Expertise:** Autonomous Agents · Multi-Agent Orchestration · Context Engineering & RAG · Prompt Caching · Model Routing · Inference Latency Optimization · Distributed Systems
+## A bit about me
 
-**Tech Stack:** Python, Go, Java, TypeScript, PyTorch, Hugging Face, LangChain/LlamaIndex, FastAPI, Docker, Kubernetes, AWS, PostgreSQL, Redis, Kafka
+At TCS, I led a migration from Node.js to Go for a real-time monitoring system. It used **40% less memory** and handled **3× as many concurrent connections** after the move. I earned my M.S. in Computer Science at California State University, Chico.
 
-*M.S. Computer Science — California State University, Chico*
+I work mostly with **Go, Python, and TypeScript**. Some of my go-to tools are PostgreSQL, Redis, FastAPI, Docker, and AWS.
+
+If you’re working on backend systems or AI developer tools, I’d love to hear what you’re building. [Say hi on LinkedIn](https://www.linkedin.com/in/adityaanilraut)
